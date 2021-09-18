@@ -1,0 +1,36 @@
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\Bresenham.exe
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\Bresenham.deps.json
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\Bresenham.runtimeconfig.json
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\Bresenham.runtimeconfig.dev.json
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\Bresenham.dll
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\ref\Bresenham.dll
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\bin\Debug\net5.0-windows\Bresenham.pdb
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.csprojAssemblyReference.cache
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.Form1.resources
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.csproj.GenerateResource.cache
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.AssemblyInfoInputs.cache
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.AssemblyInfo.cs
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.csproj.CoreCompileInputs.cache
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.dll
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\ref\Bresenham.dll
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.pdb
+E:\FCIH\Level 3\Secod term\Graphics\Bresenham\Bresenham\obj\Debug\net5.0-windows\Bresenham.genruntimeconfig.cache
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\Bresenham.exe
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\Bresenham.deps.json
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\Bresenham.runtimeconfig.json
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\Bresenham.runtimeconfig.dev.json
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\Bresenham.dll
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\ref\Bresenham.dll
+D:\mySubjects\second term\graphics\Bresenham\bin\Debug\net5.0-windows\Bresenham.pdb
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.csprojAssemblyReference.cache
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.Form1.resources
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.csproj.GenerateResource.cache
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.GeneratedMSBuildEditorConfig.editorconfig
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.AssemblyInfoInputs.cache
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.AssemblyInfo.cs
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.csproj.CoreCompileInputs.cache
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.dll
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\ref\Bresenham.dll
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.pdb
+D:\mySubjects\second term\graphics\Bresenham\obj\Debug\net5.0-windows\Bresenham.genruntimeconfig.cache
